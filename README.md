@@ -9,12 +9,12 @@ This helper contains the following functions:
 ###Usage
 
 Load a helper into your controller:
-		$this->load->helper('debug');
+<pre>$this->load->helper('debug');</pre>
 
 Print your array in readable format:
-		printr($myarray);
-The function will print print_r($myarray) with <pre> tags to make the output readable.
+<pre>printr($myarray);</pre>
+The function will print print_r($myarray) with PRE tags to make the output readable.
 
 Print readable dump information about your variable:
-		vardump($myvar);
-The function will print vardump($myvar) with <pre> tags to make the output readable.
+<pre>vardump($myvar);</pre>
+The function will print vardump($myvar) with PRE  tags to make the output readable.
