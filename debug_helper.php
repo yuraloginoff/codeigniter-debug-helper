@@ -6,7 +6,7 @@
  * @subpackage	Helpers
  * @category	Helpers
  * @author		Yura Loginov
- * @link		http://
+ * @link		https://github.com/yuraloginoff/codeigniter-debug-helper.git
  */
 
 // ------------------------------------------------------------------------
